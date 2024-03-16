@@ -27,7 +27,7 @@ To use this code, you'll need the following prerequisites:
 1. Clone this repository to your local machine:
 
     ```
-    git clone https://github.com/yourusername/data-analysis-with-elasticsearch.git
+    git clone https://github.com/1varma/DE-Case-Study.git
     ```
 
 2. Install the required Python libraries:
